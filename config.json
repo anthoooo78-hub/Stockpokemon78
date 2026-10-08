@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Exemple produit Pokémon",
+      "retailer": "Fnac",
+      "url": "https://www.fnac.com/COLLE-ICI-L-URL-DU-PRODUIT"
+    },
+    {
+      "name": "Exemple produit Pokémon",
+      "retailer": "Cultura",
+      "url": "https://www.cultura.com/COLLE-ICI-L-URL-DU-PRODUIT"
+    },
+    {
+      "name": "Exemple produit Pokémon",
+      "retailer": "King Jouet",
+      "url": "https://www.king-jouet.com/COLLE-ICI-L-URL-DU-PRODUIT"
+    }
+  ]
+}
